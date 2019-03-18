@@ -1,0 +1,55 @@
+body {
+    margin: 5vh auto; 
+    width: 1000px;
+    font-family: 'Helvetica', 'Droid Sans', 'Arial', sans-serif;
+    background-color: #e3e3e3;
+}
+
+div#sider {
+    display: inline-block;
+    width: 250px;
+    padding: 15px 25px;
+    background-color: #f4f4f4;
+    vertical-align: top;
+}
+
+div#sider img#foto-perfil {
+    margin: 0 50px;
+}
+
+div#sider p .info-personal {
+    color: #00c7ff;
+}
+
+div#main-container {
+    width: 550px;
+    padding: 15px 25px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+div#main-container .seccion {
+    background-color: #f4f4f4;
+    margin: 15px 0;
+    padding: 15px 25px;
+}
+
+
+div#main-container #cursos .curso {
+    display: inline-block;
+    max-width: 150px;
+    height: 100px;
+    padding: 5px 5px;
+    background-color: #c2c2c2;
+    border-radius: 5px;
+    vertical-align: top;
+}
+
+div#main-container #cursos .curso h5{
+    margin: 0;
+    background-color: #00c7ff;
+}
+
+div#main-container #cursos .curso p{
+    font-size: 10px;
+}
