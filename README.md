@@ -5,8 +5,9 @@ Repositorio de ejemplo de uso de HTML + CSS para el curso IIC1005 - Computación
 Esta carpeta contiene el ejemplo base visto en clases de como funciona el escribir **HTML** 📄 y agregarle **CSS** 🎨. 
 
 ## `practico`
-Esta carpeta contiene un ejemplo práctico para practicar. Es la base para tu página personal que contiene tu información base. Podrás practicar escribir dentro de **HTML** y estilar usando **CSS**. 
+Esta carpeta contiene un ejemplo para practicar. Es la base para tu página personal que contiene tu información básica. Podrás practicar escribir dentro de **HTML** y estilar usando **CSS**. 
 
+Pasos:
 - Rellena la base con tu información base.
 - Re-estructura el orden y agrega secciones para agregar más información tuya. 
 - Busca [colores](https://htmlcolorcodes.com/color-picker/) y [fuentes](https://fonts.google.com/) distintas para hacerla lo más personal posible.
